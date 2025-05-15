@@ -1,0 +1,1 @@
+gcc src\main.c src\window.c src\dpi.c -Iinclude -o usb_mouse_driver.exe -lcomctl32 -lgdi32

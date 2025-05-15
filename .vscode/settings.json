@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "setupapi.h": "c"
+        "setupapi.h": "c",
+        "stdlib.h": "c"
     }
 }
